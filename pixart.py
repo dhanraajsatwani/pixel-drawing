@@ -1,4 +1,4 @@
-from turtle import Screen, Turtle
+import Turtle
 
 PIXEL_SIZE = 30
 ROWS = 20
